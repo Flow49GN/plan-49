@@ -1,6 +1,6 @@
 /* Plan réseaux 49 — cache hors ligne.
    Change CACHE quand tu redéployes une nouvelle version : l'ancien cache est purgé. */
-const CACHE = "plan49-v8";
+const CACHE = "plan49-v12";
 
 const SHELL = [
   "./",
